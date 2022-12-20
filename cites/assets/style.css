@@ -1,0 +1,35 @@
+body{
+    background-image: url(https://wallpaperaccess.com/full/2182418.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+.bmw{
+    display: inline;
+    width: 350px;
+}
+ul li{
+    float:left;
+    display: inline;
+    margin-bottom: 15px;
+    margin-right: 15px;
+    color: blanchedalmond;
+}
+li{
+    margin-right: 15px;
+}
+li a{
+    font-size: 24px;
+    text-decoration: none;
+    color: rgb(187, 165, 137);
+}
+li a:hover{
+    text-decoration: none;
+    color: rgb(117, 112, 83);
+}
+.header{
+    justify-content:space-around;
+    align-items: center;
+    display: flex;
+    
+}
+
