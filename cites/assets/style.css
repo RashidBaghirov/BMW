@@ -14,8 +14,8 @@ ul li{
     margin-right: 15px;
     color: blanchedalmond;
 }
-li{
-    margin-right: 15px;
+ul{
+   margin: 0 auto;
 }
 li a{
     font-size: 24px;
@@ -27,7 +27,7 @@ li a:hover{
     color: rgb(117, 112, 83);
 }
 .header{
-    justify-content:space-around;
+    justify-content:space-between;
     align-items: center;
     display: flex;
     
